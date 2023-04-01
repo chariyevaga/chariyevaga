@@ -30,6 +30,8 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/chariyev)  
 
+[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
+
 ![Profile views](https://gpvc.arturio.dev/chariyev)  
-(https://www.codewars.com/users/chariyev/badges/micro)
+
 
