@@ -31,5 +31,5 @@
 ![GitHub metrics](https://metrics.lecoq.io/chariyev)  
 
 ![Profile views](https://gpvc.arturio.dev/chariyev)  
-https://www.codewars.com/users/chariyev/badges/micro
+(https://www.codewars.com/users/chariyev/badges/micro)
 
