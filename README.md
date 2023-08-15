@@ -45,16 +45,5 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chariyev&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chariyev)  
-
-![GitHub metrics](https://metrics.lecoq.io/chariyev)  
-
-[![Profile badge](https://www.codewars.com/users/chariyev/badges/large)](https://www.codewars.com/users/chariyev)
-
-![Profile views](https://gpvc.arturio.dev/chariyev)  
-
-![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 
 
