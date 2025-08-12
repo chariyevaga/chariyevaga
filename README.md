@@ -28,6 +28,8 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-4285F4?style=for-the-badge&logo=microservices&logoColor=white)
 ![Monorepo](https://img.shields.io/badge/Monorepo-FF9900?style=for-the-badge&logo=monorepo&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![OAuth](https://img.shields.io/badge/OAuth-3D6DE6?style=for-the-badge&logo=openid&logoColor=white)
