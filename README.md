@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Agamyrat
 #### I am Industry & Software Engineer
 
-- 🔭 I’m currently working on timar.com.tm 
-- 💬 Ask me about SQL 
+- 🔭 I’m currently working on TIMAR
 - 🌱 I’m currently learning and using: 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
